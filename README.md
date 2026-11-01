@@ -1,6 +1,6 @@
-# 👑 Lakshmi Convention & RCC Hotels — Luxury Website
+# 👑 Lakshmi Convention — Luxury Website
 
-> Hyderabad's premier destination for royal weddings, receptions, and family celebrations with luxury hotel stay.
+> Hyderabad's premier destination for royal weddings, receptions, and family celebrations with luxury guest stay.
 
 ![Lakshmi Convention](images/exterior_night.png)
 
@@ -15,10 +15,10 @@
 ## ✨ Website Features
 
 - **Royal White & Imperial Gold Luxury Aesthetics:** High-contrast charcoal typography, pure white marble cards, and gold foil gradients.
-- **Real Venue Photography:** Night illuminated facade, Grand Mahalakshmi royal throne stage, bridal aisle runner, and RCC Hotels luxury guest suites.
-- **Interactive Lightbox Photo Gallery:** High-resolution zoom and category filtering (*Main Hall & Stage, Facade, Dining Hall, RCC Luxury Suites*).
+- **Real Venue Photography:** Night illuminated facade, Grand Mahalakshmi royal throne stage, bridal aisle runner, and luxury guest suites.
+- **Interactive Lightbox Photo Gallery:** High-resolution zoom and category filtering (*Main Hall & Stage, Facade, Dining Hall, Luxury Guest Suites*).
 - **Google Review Topic Filter Pills:** Interactive review categories from Google Maps (`All`, `Function Hall`, `Elegant Decor`, `Spacious Hall`, `Accommodating Staff`, `Supportive Staff`, `Corporate Events`, `Wedding Venue`).
-- **Direct "Directions" Navigation:** 1-click smooth scrolling & Google Maps directions embed.
+- **Direct "Directions" Navigation:** 1-click smooth scrolling & Google Maps directions embed right beside "Schedule Visit".
 - **WhatsApp & Phone Booking Integration:** Direct routing to venue desk at `+91 091000 78888`.
 - **Responsive & Mobile-First:** Designed for flawless performance across mobile, tablet, and desktop devices.
 
@@ -40,4 +40,4 @@ Then visit `http://localhost:8080/`.
 
 ---
 
-© 2026 Lakshmi Convention & RCC Hotels. All Rights Reserved.
+© 2026 Lakshmi Convention. All Rights Reserved.

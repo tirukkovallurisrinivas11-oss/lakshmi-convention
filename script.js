@@ -1,6 +1,6 @@
 /* ==========================================================================
-   LAKSHMI CONVENTION & RCC HOTELS - JAVASCRIPT LOGIC
-   Interactive Calculator, Lightbox, Dynamic Booking & Filters
+   LAKSHMI CONVENTION - JAVASCRIPT LOGIC
+   Lightbox, Dynamic Booking & Filters
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -58,7 +58,7 @@ function openLightbox(imageSrc, captionText) {
 
   if (modal && img) {
     img.src = imageSrc;
-    if (caption) caption.innerText = captionText || 'Lakshmi Convention & RCC Hotels';
+    if (caption) caption.innerText = captionText || 'Lakshmi Convention';
     modal.classList.add('open');
     document.body.style.overflow = 'hidden';
   }
